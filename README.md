@@ -1,1 +1,1 @@
-testing
+JobScholarGuide is a career and education blog that provides information on job vacancies, scholarship opportunities, and career tips. It aims to assist job seekers, students, and professionals in staying informed about employment news, application guides, and valuable resources to support their career and educational journeys.
