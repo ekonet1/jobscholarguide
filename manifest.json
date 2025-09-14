@@ -17,14 +17,22 @@
   ],
   "screenshots": [
     {
-      "src": "https://ekonet1.github.io/jobscholarguide/About.png"
+      "src": "https://ekonet1.github.io/jobscholarguide/About.png",
+      "sizes": "1280x720",
+      "type": "image/png",
+      "form_factor": "wide"
     },
     {
-      "src": "https://ekonet1.github.io/jobscholarguide/Post.png"
+      "src": "https://ekonet1.github.io/jobscholarguide/Post.png",
+      "sizes": "720x1280",
+      "type": "image/png",
+      "form_factor": "narrow"
     },
     {
-      "src": "https://ekonet1.github.io/jobscholarguide/Home.png"
-
+      "src": "https://ekonet1.github.io/jobscholarguide/Home.png",
+      "sizes": "720x1280",
+      "type": "image/png",
+      "form_factor": "narrow"
     }
   ],
   "features": [
