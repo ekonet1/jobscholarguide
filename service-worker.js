@@ -2,7 +2,7 @@ self.addEventListener('install', (event) => {
   event.waitUntil(
     caches.open('app-cache').then((cache) => {
       return cache.addAll([
-        'https://jobscholarguide.blogspot.com/',
+        'https://jobscholarguide.blogspot.com',
         '/android-chrome-192x192.png',
         '/android-chrome-512x512.png',
         // Add more static assets if needed
