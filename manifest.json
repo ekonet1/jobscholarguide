@@ -1,11 +1,11 @@
 {
-  "id": "https://jobscholarguide.blogspot.com/",
+  "id": "https://www.jobscholarguide.name.ng/",
   "dir": "ltr",
   "lang": "en",
   "name": "JobScholarGuide",
-  "scope": "https://jobscholarguide.blogspot.com/",
+  "scope": "https://www.jobscholarguide.name.ng/",
   "display": "standalone",
-  "start_url": "https://jobscholarguide.blogspot.com",
+  "start_url": "https://www.jobscholarguide.name.ng",
   "short_name": "JobScholarGuide",
   "theme_color": "#FFFFFF",
   "description": "JobScholarGuide is an online resource dedicated to publishing opportunities for scholarships, jobs, internships, and career growth. Our aim is to connect users with genuine, verified, and useful information.",
@@ -82,7 +82,7 @@
       "name": "Start Live Session",
       "short_name": "Start Live",
       "description": "Jump direction into starting or joining a live session",
-      "url": "https://jobscholarguide.blogspot.com/?startLive",
+      "url": "https://www.jobscholarguide.name.ng/?startLive",
       "icons": [
         {
           "src": "https://ekonet1.github.io/jobscholarguide/android-chrome-256x256.png",
